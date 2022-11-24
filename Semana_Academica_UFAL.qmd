@@ -12,7 +12,7 @@ format:
     slide-number: c/t
     css: ["theme/theme.css"]
     theme: default #dark
-    footer: "Ciência de Dados - SEMANA ACADÊMICA UFAL - [Jodavid Ferreira](https://jodavid.github.io/)"
+    footer: "Ciência de Dados - V Semana de Engenharia de Produção - [Jodavid Ferreira](https://jodavid.github.io/)"
     logo: "images/logo.png"
     smaller: True
 editor_options: 
