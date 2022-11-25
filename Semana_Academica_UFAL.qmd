@@ -34,10 +34,10 @@ editor_options:
 
 <p/>
 
-*  Ferramentas utilizadas na área de ciência de dados;
+*  Algumas exemplos de áreas que utilizam Ciência de dados;
 
 <p/>
-*  Experiências em soluções utilizando ciência de dados;
+*  Pilares para cientista de dados;
 
 <p/>
 *  O que esperar do mercado de trabalho?
@@ -397,11 +397,12 @@ de dados estrurados é importante ter essa reflexão em mente!
 *  Na área da **Saúde ou Medicina**:
 
 > a ciência e a tecnologia caminham juntas há tempos,
-e nessa área podemos comentar por exemplo sobre os dispositivos e sensores portáteis
+e nessa área podemos comentar por exemplo sobre os **dispositivos e sensores portáteis
 que conectados ao corpo enviam dados em tempo real sobre as condições de saúde de
-um paciente, dessa forma é possível extrair diversas análises sobre os dados coletados.
-Também podemos comentar sobre os avanços nos diagnósticos de doenças como o
-câncer, reduzindo o tempo dos exames e extinguindo a chance de erro médico, dessa
+um paciente**, dessa forma é possível extrair diversas análises sobre os dados coletados.
+
+> Também podemos comentar sobre os avanços nos **diagnósticos de doenças como o
+câncer**, reduzindo o tempo dos exames e extinguindo a chance de erro médico, dessa
 forma quanto mais rápido o diagnóstico, maiores as chances de cura do paciente.
 
 
@@ -419,10 +420,11 @@ forma quanto mais rápido o diagnóstico, maiores as chances de cura do paciente
 >  a tecnologia junto com as análises já alterou a forma como
 os professores ministram as aulas, substituindo livros por imersões no tema estudado
 com recursos de realidade virtual por exemplo. Através de análises e transformando-as
-em inteligência (inteligência artificial), o progresso dos alunos podem ser indicados
-por níveis e através destes conteúdos adaptados são direcionados para cada um deles.
-Também, podemos exemplificar que através de um sistema on-line, o aluno completando
-atividades, é possível criar um algoritmo que identifica o quanto ele aprendeu, e vai
+em inteligência (inteligência artificial), o **progresso dos alunos podem ser indicados
+por níveis e através destes conteúdos adaptados são direcionados para cada um deles**.
+
+> Também, podemos exemplificar que através de um **sistema on-line, o aluno completando
+atividades, é possível criar um algoritmo que identifica o quanto ele aprendeu**, e vai
 traçando um plano de estudo de acordo com sua evolução.
 
 
@@ -439,9 +441,9 @@ traçando um plano de estudo de acordo com sua evolução.
 *  Na área da **Marketing e Varejo**:
 
 >   neste caso podemos utilizar a
-ciência de dados para personalização da compra, que é uma experiência positiva para o
+ciência de dados para **personalização da compra**, que é uma experiência positiva para o
 cliente. Através de algoritmos de aprendizado, a máquina estabelece as preferências
-do público de acordo com histórico de compras e recomendações, assim as tomadas de
+do público de acordo com **histórico de compras e recomendações**, assim as tomadas de
 decisões sobre as ações são mais acertadas e direcionadas para o desejo dos clientes.
 
 
@@ -456,7 +458,7 @@ decisões sobre as ações são mais acertadas e direcionadas para o desejo dos 
 
 *   Uma outra área bem conhecida na utilização da ciência de dados é com **Serviços financeiros**:
 
-> nesta área as empresas procuram identificar padrões e informações que favoreçam a negociação, também para facilitar a rotina das transações e combater fraudes, seja analisando perfis de risco, ou com tecnologias mais atuais como cibersegurança.
+> nesta área as empresas procuram **identificar padrões e informações que favoreçam a negociação**, também para facilitar a rotina das transações e **combater fraudes**, seja analisando **perfis de risco**, ou com tecnologias mais atuais como cibersegurança.
 
 
 ------------------------------------------------------------------------
@@ -471,8 +473,8 @@ decisões sobre as ações são mais acertadas e direcionadas para o desejo dos 
 
 *  A área da **Relacionamento com consumidor**:
 
->  que antes o trabalho de interagir, responder e oferecer
-serviços a potenciais clientes era 100% humano, hoje existem os chatbots que com
+>  responder e oferecer serviços a potenciais clientes era **100% humano**,
+hoje existem **os chatbots** que com
 determinados algoritmos, aprendem a cada conversa, e se tornam cada vez melhores
 em se relacionar com os clientes, dessa forma, empresas que oferecem serviços de
 integração dos chatbots com redes sociais e com sistemas de pagamento já deslumbram
@@ -491,9 +493,9 @@ um cenário otimista.
 
 *  A área da **Moda**
 
-> conforme falamos acima, prever tendências
-de compra, personalizar experiências e o relacionamento com chatbots, são benefícios
-da da ciência de dados com Inteligência Artificial e amplamente aplicados na moda.
+> prever tendências de compra, personalizar experiências e
+o **relacionamento com chatbots**, são benefícios
+da **ciência de dados com Inteligência Artificial** e amplamente aplicados na moda.
 Além do e-commerce, a analise dados é uma importante aliada no desenvolvimento de
 novos tecidos, através de simulações e inteligência, as reações humanas são imitadas,
 com controles sobre a transpiração.
@@ -508,7 +510,13 @@ com controles sobre a transpiração.
 
 <br/>
 
-Podemos afirmar que para aplicar *ciência de dados* é preciso ter conhecimentos
+<hr/>
+###  A Ciência de Dados é uma área interdisciplinar
+<hr/>
+
+<br/>
+
+Pode-se afirmar que para aplicar *ciência de dados* é preciso ter conhecimentos
 de
 
 * ***Estatística***
@@ -520,9 +528,7 @@ dados
 >  Isto porque as ferramentas e algoritmos são baseadas nestas áreas, por isso eles são
 a essência da Ciência de Dados
 
-<hr/>
-###  A Ciência de Dados é uma área interdisciplinar
-<hr/>
+
 
 ------------------------------------------------------------------------
 
