@@ -665,21 +665,6 @@ cientista de dados deve dominar no seu dia a dia.
 
 ------------------------------------------------------------------------
 
-## Mercado de trabalho
-
-<hr/>
-
-![](images/ufal/media_salarios_glassdoor_junior.png){fig-align="center" width="400"}
-
-------------------------------------------------------------------------
-
-## Mercado de trabalho
-
-<hr/>
-
-![](images/ufal/media_salarios_glassdoor.png){fig-align="center" width="400"}
-
-------------------------------------------------------------------------
 
 
 ## Para concluir
